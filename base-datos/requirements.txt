@@ -1,0 +1,28 @@
+certifi==2021.10.8
+cffi @ file:///C:/ci_310/cffi_1642682485096/work
+click @ file:///D:/bld/click_1651215331061/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1602866480661/work
+cryptography @ file:///C:/ci/cryptography_1639414690059/work
+Flask @ file:///home/conda/feedstock_root/build_artifacts/flask_1651670959703/work
+Flask-Cors @ file:///tmp/build/80754af9/flask-cors_1609957731919/work
+flask-marshmallow @ file:///home/conda/feedstock_root/build_artifacts/flask-marshmallow_1601276004467/work
+Flask-SQLAlchemy @ file:///home/conda/feedstock_root/build_artifacts/flask-sqlalchemy_1616102249273/work
+greenlet @ file:///D:/bld/greenlet_1648882598553/work
+importlib-metadata @ file:///D:/bld/importlib-metadata_1653252990345/work
+itsdangerous @ file:///home/conda/feedstock_root/build_artifacts/itsdangerous_1648147185463/work
+Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1651774399431/work
+MarkupSafe @ file:///D:/bld/markupsafe_1648737728033/work
+marshmallow @ file:///home/conda/feedstock_root/build_artifacts/marshmallow_1653849492447/work
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1637239678211/work
+psycopg2 @ file:///D:/bld/psycopg2-split_1640944718569/work
+psycopg2-binary @ file:///home/conda/feedstock_root/build_artifacts/psycopg2-split_1640944520001/work/psycopg2-binary
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+PyMySQL @ file:///C:/ci/pymysql_1610464946597/work
+pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1652235407899/work
+python-decouple==3.6
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+SQLAlchemy @ file:///D:/bld/sqlalchemy_1654061661417/work
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1650370875435/work
+Werkzeug @ file:///home/conda/feedstock_root/build_artifacts/werkzeug_1651670883478/work
+wincertstore==0.2
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1649012893348/work
